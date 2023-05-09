@@ -34,7 +34,7 @@ android {
         }
     }
 
-    namespace = "com.trendyol.compose.timelineview"
+    namespace = "com.trendyol.timelineviewcompose"
 }
 
 dependencies {

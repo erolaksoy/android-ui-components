@@ -11,7 +11,7 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.composed
 import androidx.compose.ui.graphics.graphicsLayer
-import com.trendyol.uicomponents.librariescompose.timelineview.model.PointAnimation
+import com.trendyol.timelineviewcompose.model.PointAnimation
 import kotlinx.coroutines.delay
 
 @Stable

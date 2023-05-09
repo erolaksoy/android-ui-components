@@ -1,4 +1,4 @@
-package com.trendyol.uicomponents.librariescompose.timelineview.model
+package com.trendyol.timelineviewcompose.model
 
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.TextStyle

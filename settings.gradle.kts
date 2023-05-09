@@ -11,7 +11,7 @@ include(":libraries:timeline-view")
 include(":libraries:touch-delegator")
 include(":libraries:fit-option-message-view")
 include(":sample-compose")
-include(":libraries-compose:timelineview")
+include(":libraries-compose:timeline-view-compose")
 
 rootProject.name = "trendyol-android-ui-components"
 

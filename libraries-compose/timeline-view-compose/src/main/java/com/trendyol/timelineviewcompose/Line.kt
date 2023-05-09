@@ -17,9 +17,9 @@ import androidx.compose.ui.graphics.drawscope.DrawScope
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.DpSize
 import androidx.compose.ui.unit.dp
-import com.trendyol.uicomponents.librariescompose.timelineview.model.LineConfig
-import com.trendyol.uicomponents.librariescompose.timelineview.model.LineType
-import com.trendyol.uicomponents.librariescompose.timelineview.model.TimelineOrientation
+import com.trendyol.timelineviewcompose.model.LineConfig
+import com.trendyol.timelineviewcompose.model.LineType
+import com.trendyol.timelineviewcompose.model.TimelineOrientation
 
 @Composable
 internal fun Line(

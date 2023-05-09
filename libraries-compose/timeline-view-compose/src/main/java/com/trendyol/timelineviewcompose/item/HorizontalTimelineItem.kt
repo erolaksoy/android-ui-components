@@ -1,4 +1,4 @@
-package com.trendyol.uicomponents.librariescompose.timelineview.item
+package com.trendyol.timelineviewcompose.item
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.width
@@ -12,14 +12,14 @@ import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.constraintlayout.compose.ConstraintLayout
 import com.trendyol.uicomponents.librariescompose.timelineview.Line
-import com.trendyol.uicomponents.librariescompose.timelineview.LineLayoutId
-import com.trendyol.uicomponents.librariescompose.timelineview.PointLayoutId
-import com.trendyol.uicomponents.librariescompose.timelineview.TextLayoutId
+import com.trendyol.timelineviewcompose.LineLayoutId
+import com.trendyol.timelineviewcompose.PointLayoutId
+import com.trendyol.timelineviewcompose.TextLayoutId
 import com.trendyol.uicomponents.librariescompose.timelineview.TimelinePoint
-import com.trendyol.uicomponents.librariescompose.timelineview.getHorizontalConstraintSet
-import com.trendyol.uicomponents.librariescompose.timelineview.model.FakeTimelineItemProvider
-import com.trendyol.uicomponents.librariescompose.timelineview.model.TimelineItem
-import com.trendyol.uicomponents.librariescompose.timelineview.model.TimelineOrientation
+import com.trendyol.timelineviewcompose.getHorizontalConstraintSet
+import com.trendyol.timelineviewcompose.model.FakeTimelineItemProvider
+import com.trendyol.timelineviewcompose.model.TimelineItem
+import com.trendyol.timelineviewcompose.model.TimelineOrientation
 
 @Composable
 internal fun HorizontalTimelineItem(

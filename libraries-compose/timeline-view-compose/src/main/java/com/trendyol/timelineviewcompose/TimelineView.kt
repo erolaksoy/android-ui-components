@@ -5,13 +5,13 @@ import androidx.compose.foundation.layout.Row
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
-import com.trendyol.uicomponents.librariescompose.timelineview.item.HorizontalTimelineImageItem
-import com.trendyol.uicomponents.librariescompose.timelineview.item.HorizontalTimelineItem
-import com.trendyol.uicomponents.librariescompose.timelineview.model.FakeTimelineItemProvider.provideTimelineItemList
-import com.trendyol.uicomponents.librariescompose.timelineview.model.TimelineItem
-import com.trendyol.uicomponents.librariescompose.timelineview.model.TimelineOrientation
-import com.trendyol.uicomponents.librariescompose.timelineview.item.VerticalTimelineImageItem
-import com.trendyol.uicomponents.librariescompose.timelineview.item.VerticalTimelineItem
+import com.trendyol.timelineviewcompose.item.HorizontalTimelineImageItem
+import com.trendyol.timelineviewcompose.item.HorizontalTimelineItem
+import com.trendyol.timelineviewcompose.model.FakeTimelineItemProvider.provideTimelineItemList
+import com.trendyol.timelineviewcompose.model.TimelineItem
+import com.trendyol.timelineviewcompose.model.TimelineOrientation
+import com.trendyol.timelineviewcompose.item.VerticalTimelineImageItem
+import com.trendyol.timelineviewcompose.item.VerticalTimelineItem
 
 @Composable
 fun TimelineView(

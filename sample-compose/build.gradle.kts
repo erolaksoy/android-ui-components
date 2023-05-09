@@ -33,6 +33,6 @@ dependencies {
     implementation(Dependencies.composeUiTooling)
     implementation(Dependencies.composeActivity)
     implementation(Dependencies.composeNavigation)
-    implementation(project(":libraries-compose:timelineview"))
+    implementation(project(":libraries-compose:timeline-view-compose"))
 
 }

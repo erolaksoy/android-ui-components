@@ -1,4 +1,4 @@
-package com.trendyol.uicomponents.librariescompose.timelineview
+package com.trendyol.timelineviewcompose
 
 import androidx.compose.ui.unit.Dp
 import androidx.constraintlayout.compose.ConstraintSet

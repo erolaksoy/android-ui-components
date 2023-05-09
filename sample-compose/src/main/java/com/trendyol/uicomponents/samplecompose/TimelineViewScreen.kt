@@ -21,7 +21,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontStyle
 import androidx.compose.ui.unit.dp
 import com.trendyol.uicomponents.librariescompose.timelineview.TimelineView
-import com.trendyol.uicomponents.librariescompose.timelineview.model.TimelineOrientation
+import com.trendyol.timelineviewcompose.model.TimelineOrientation
 import com.trendyol.uicomponents.samplecompose.TimelineViewItemProvider.createTimelineImageItems
 import com.trendyol.uicomponents.samplecompose.TimelineViewItemProvider.createTimelineItems
 import com.trendyol.uicomponents.samplecompose.ui.theme.ColorPrimary

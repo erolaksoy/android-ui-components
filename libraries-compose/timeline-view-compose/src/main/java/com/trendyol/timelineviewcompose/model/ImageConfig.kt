@@ -1,4 +1,4 @@
-package com.trendyol.uicomponents.librariescompose.timelineview.model
+package com.trendyol.timelineviewcompose.model
 
 import androidx.compose.runtime.Immutable
 import androidx.compose.ui.graphics.painter.Painter

@@ -12,7 +12,7 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.graphicsLayer
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
-import com.trendyol.uicomponents.librariescompose.timelineview.model.PointConfig
+import com.trendyol.timelineviewcompose.model.PointConfig
 
 @Composable
 fun TimelinePoint(

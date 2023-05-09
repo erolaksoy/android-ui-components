@@ -6,13 +6,13 @@ import androidx.compose.ui.text.TextStyle
 import androidx.compose.ui.text.font.FontFamily
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
-import com.trendyol.uicomponents.librariescompose.timelineview.model.ImageConfig
-import com.trendyol.uicomponents.librariescompose.timelineview.model.LineAnimation
-import com.trendyol.uicomponents.librariescompose.timelineview.model.LineConfig
-import com.trendyol.uicomponents.librariescompose.timelineview.model.LineType
-import com.trendyol.uicomponents.librariescompose.timelineview.model.PointAnimation
-import com.trendyol.uicomponents.librariescompose.timelineview.model.PointConfig
-import com.trendyol.uicomponents.librariescompose.timelineview.model.TimelineItem
+import com.trendyol.timelineviewcompose.model.ImageConfig
+import com.trendyol.timelineviewcompose.model.LineAnimation
+import com.trendyol.timelineviewcompose.model.LineConfig
+import com.trendyol.timelineviewcompose.model.LineType
+import com.trendyol.timelineviewcompose.model.PointAnimation
+import com.trendyol.timelineviewcompose.model.PointConfig
+import com.trendyol.timelineviewcompose.model.TimelineItem
 
 internal object TimelineViewItemProvider {
 
