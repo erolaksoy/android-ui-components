@@ -9,7 +9,7 @@ import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import kotlin.random.Random
 
-object FakeTimelineItemProvider {
+internal object FakeTimelineItemProvider {
 
     internal fun provideTimelineItem(
         text: String = "Step Name",
